@@ -14,6 +14,7 @@ const Landing = () =>  {
             	<Link className="link" to="frwd-fund">I understand - take me to the app</Link>
             </Button>
           </Jumbotron>
+        <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"e4fa99a4d45714237e499e9ed","lid":"4423afd375"}) })</script>
         </Grid>
     );
 }
