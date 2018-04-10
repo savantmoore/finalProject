@@ -14,7 +14,6 @@ const Landing = () =>  {
             	<Link className="link" to="frwd-fund">I understand - take me to the app</Link>
             </Button>
           </Jumbotron>
-        <footer><p class="copyright">Copyright 2018, FRWD Inc.</p></footer>
         </Grid>
     );
 }
